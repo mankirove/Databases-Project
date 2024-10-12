@@ -1,2 +1,2 @@
 # Databases-Project
-The creation and solution of  project on  Databases course
+The creation and solution of  the  project on  Databases course.
